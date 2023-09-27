@@ -1,5 +1,5 @@
 import cv2
-img=cv2.imread('cv projects/program1/images/Elon Musk.jpg',-1)
+img=cv2.imread('c:/Users/Lenovo/Desktop/computer_vision/cv projects/program1/images/Elon Musk.jpg',-1)
 
 
 '''
